@@ -29,7 +29,7 @@ gloo.foo uses a **modular architecture**: each command is its own independent Go
 
 A command module looks like this:
 
-```
+```text
 cmd-<name>/
 ├── go.mod              # module github.com/gloo-foo/cmd-<name>
 ├── command.go          # the constructor: <Name>(opts ...any) gloo.Command[[]byte, []byte]
