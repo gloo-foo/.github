@@ -18,7 +18,7 @@ Every module ships with a self-documenting `Makefile`. A change is complete only
 - `gofumpt` formatting, `go vet`, `golangci-lint`, and `staticcheck` — zero findings
 - `gocognit` — cognitive complexity ≤ 7 for every production function
 - `govulncheck` — no known vulnerabilities
-- **100% statement coverage** — tests must cover every line, and must prove *intended* behavior (a bug that a test locks in is two bugs, not coverage)
+- **100% statement coverage** — tests must cover every line, and must prove _intended_ behavior (a bug that a test locks in is two bugs, not coverage)
 - `goreleaser check` — valid release config
 
 Tooling is pinned in each module's `go.mod` `tool` stanza and run via `go tool` — no global installs.

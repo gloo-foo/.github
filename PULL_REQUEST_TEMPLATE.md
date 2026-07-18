@@ -68,8 +68,7 @@ If this is a breaking change, describe what breaks and how users should adapt:
 
 ## Related Issues
 
-Closes #(issue_number)
-Related to #(issue_number)
+Closes #(issue_number) Related to #(issue_number)
 
 ## Additional Notes
 
