@@ -2,9 +2,7 @@
 
 ## Reporting a vulnerability
 
-Report security vulnerabilities privately through GitHub Security Advisories on the affected repository:
-
-**Repository → Security → Report a vulnerability**
+Report security vulnerabilities privately through GitHub Security Advisories on the affected repository — **Repository → Security → Report a vulnerability**.
 
 If the affected repository is not obvious, open the advisory on any repository in this organization and it will be routed.
 
